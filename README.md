@@ -1,6 +1,3 @@
 # codibly
 
-#in terminal write npm init
-
-#after install is done type npm run dev
-
+Your app should start after running npm install & npm start.
