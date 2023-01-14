@@ -1,3 +1,3 @@
 # codibly
 
-Your app should start after running npm install & npm start.
+Your app will start after running npm install & npm start.
